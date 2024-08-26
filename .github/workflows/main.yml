@@ -14,4 +14,4 @@ jobs:
         server: ${{ secrets.ftp_host }}
         username: ${{ secrets.ftp_user }}
         password: ${{ secrets.ftp_password }}
-        server-dir: /bibliotecaweb.app.br/  # A indentação correta está aqui
+        server-dir: /home1/bmsysc98/pesquisasacademicas.com.br/biblioteca/
